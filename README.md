@@ -1,4 +1,4 @@
-## Hi there 👋
+ 3rd Year BTech Student | Passionate about Web Development & Open Source | Learning, building, and growing through real-world projects
 
 <!--
 **sumedha075/sumedha075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
